@@ -14,8 +14,16 @@ public class Order {
 		drinkPrices.put(Drink.Tea, 0.4);
 		drinkCodes.put(Drink.Coffee, "C");
 		drinkPrices.put(Drink.Coffee, 0.6);
-		drinkCodes.put(Drink.Chocalate, "H");
-		drinkPrices.put(Drink.Chocalate, 0.5);
+		drinkCodes.put(Drink.Chocolate, "H");
+		drinkPrices.put(Drink.Chocolate, 0.5);
+		drinkCodes.put(Drink.Orange, "O");
+		drinkPrices.put(Drink.Orange, 0.6);
+		drinkCodes.put(Drink.HotTea, "Th");
+		drinkPrices.put(Drink.HotTea, 0.7);
+		drinkCodes.put(Drink.HotCoffee, "Ch");
+		drinkPrices.put(Drink.HotCoffee, 0.7);
+		drinkCodes.put(Drink.HotChocolate, "Hh");
+		drinkPrices.put(Drink.HotChocolate, 0.7);
 	}
 
 	private Drink type;

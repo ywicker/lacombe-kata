@@ -3,5 +3,9 @@ package coffemachine.model;
 public enum Drink {
 	Tea,
 	Coffee,
-	Chocalate
+	Chocolate,
+	Orange,
+	HotCoffee,
+	HotTea,
+	HotChocolate
 }
